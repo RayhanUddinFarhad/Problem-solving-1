@@ -9,4 +9,4 @@ function multipication (number, looping) {
     }
 }
 
-multipication(10, 20);
+multipication(10, 18);

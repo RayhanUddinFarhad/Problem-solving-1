@@ -1,3 +1,6 @@
+//Grade Calculator
+
+
 function GradeCalculator (marks ) {
 
     if (marks>=80) {
